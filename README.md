@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhou-dingkun
 - 👀 I’m interested in ...I don't konw
-- 🌱 I’m currently learning c++&java&js
+- 🌱 I’m currently learning c++&python,just still learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - 🤪 zdkcloud.top please give me a star
